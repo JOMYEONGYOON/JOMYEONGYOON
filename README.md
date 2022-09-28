@@ -20,5 +20,6 @@
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <br>
 </div>
-https://github-readme-stats.vercel.app/api?username=JOMYEONGYOON&theme=dark&show_icons=true
+<!-- https://github-readme-stats.vercel.app/api?username=JOMYEONGYOON&theme=dark&show_icons=true -->
+[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
 
