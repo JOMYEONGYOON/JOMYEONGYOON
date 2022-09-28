@@ -42,5 +42,5 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOMYEONGYOON&theme=dark&show_icons=true)
+https://github-readme-stats.vercel.app/api?username=JOMYEONGYOON&theme=dark&show_icons=true
 
