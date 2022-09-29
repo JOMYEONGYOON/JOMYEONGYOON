@@ -26,6 +26,8 @@
 <div align=center> 
 <img src="https://github-readme-stats.vercel.app/api?username=JOMYEONGYOON&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=JOMYEONGYOON&repo=github-readme-stats&cache_seconds=86400&theme=default"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOMYEONGYOON&layout=compact)](https://github.com/JOMYEONGYOON/github-readme-stats">
+
 <!-- https://github-readme-stats.vercel.app/api?username=JOMYEONGYOON&theme=dark&show_icons=true -->
 
 </div>
