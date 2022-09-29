@@ -1,3 +1,5 @@
+<div align=center><img src="https://capsule-render.vercel.app/api?type=slice&color=random&text=안녕하세요"></div>
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -24,9 +26,9 @@
 </div>
 
 <div align=center> 
-<img src="https://github-readme-stats.vercel.app/api?username=JOMYEONGYOON&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JOMYEONGYOON&repo=github-readme-stats&cache_seconds=86400&theme=default"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOMYEONGYOON&layout=compact)](https://github.com/JOMYEONGYOON/github-readme-stats">
+<a href="www.naver.com"><img src="https://github-readme-stats.vercel.app/api?username=JOMYEONGYOON&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react"> </a>
+<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=JOMYEONGYOON&repo=github-readme-stats&cache_seconds=86400&theme=default"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOMYEONGYOON&layout=compact)](https://github.com/JOMYEONGYOON/github-readme-stats"> -->
 
 <!-- https://github-readme-stats.vercel.app/api?username=JOMYEONGYOON&theme=dark&show_icons=true -->
 
