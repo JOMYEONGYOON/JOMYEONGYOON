@@ -26,7 +26,7 @@
 </div>
 
 <div align=center> 
-<a href="https://www.naver.com"><img src="https://github-readme-stats.vercel.app/api?username=JOMYEONGYOON&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react"> </a>
+<a href="https://www.naver.com" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=JOMYEONGYOON&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react"> </a>
 <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=JOMYEONGYOON&repo=github-readme-stats&cache_seconds=86400&theme=default"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOMYEONGYOON&layout=compact)](https://github.com/JOMYEONGYOON/github-readme-stats"> -->
 
